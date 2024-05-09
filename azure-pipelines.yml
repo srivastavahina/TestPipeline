@@ -20,7 +20,7 @@ steps:
     SonarCloud: 'sonarcloud1'
     organization: 'srivastavahina'
     scannerMode: 'MSBuild'
-    projectKey: 'f6d368b603fb7b7969cc72c8f4c387c77a47003a'
+    projectKey: 'f37481a03ee9deb1b77d6de2c4a3ee8c28ff4235'
     projectName: 'srivastavahina'
 - task: NuGetToolInstaller@1
 
